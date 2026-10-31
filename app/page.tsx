@@ -456,7 +456,7 @@ return (
     </div>
 
     <div className="mx-auto mt-12 max-w-7xl border-t border-blue-800 pt-7 text-center text-xs text-blue-300">
-      © {new Date().getFullYear()} KADIBS HUB. All Rights Reserved.
+    &copy; 2026 KADIBS HUB. All Rights Reserved.
     </div>
   </footer>
 
