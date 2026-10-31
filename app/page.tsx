@@ -402,7 +402,7 @@ return (
       </p>
 
       <a
-        href="https://wa.me/2348057314512cc"
+        href="https://wa.me/2348057314512"
         target="_blank"
         rel="noopener noreferrer"
         className="mt-8 inline-block rounded-lg bg-green-600 px-9 py-4 font-bold text-white transition hover:bg-green-700"
