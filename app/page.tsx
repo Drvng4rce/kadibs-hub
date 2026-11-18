@@ -7,7 +7,7 @@ const products = [
 name: "Solar Power Stations",
 category: "Solar Products",
 price: "₦450,000",
-image:"https://energiapartner.eu/wp-content/uploads/2022/12/uusmae-saku-5-scaled.jpg",
+image:"https://plus.unsplash.com/premium_photo-1679917152396-4b18accacb9d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
 
 tag: "Best Seller",
 },
